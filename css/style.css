@@ -1,0 +1,36 @@
+*{
+	margin:0;
+	padding: 0;
+}
+.form-box{
+	width:30%;
+	margin:60px auto;
+	background:#d0efff;
+	border-radius:8px;
+	padding: 30px 40px;
+	text-align: center;	
+}
+.tittle{
+	margin: 10px;
+}
+
+form .control{
+	width: 80%;
+    padding: 12px;
+    margin: 4px 0;
+    border: none;
+}
+.button{
+	width: 86%;
+    padding: 8px;
+    margin: 3px 0;
+    color: white;
+    background:#000080; 
+}
+.end{
+	margin: 10px 0 0 0;
+}
+.Condition{
+	color: #000080;
+}
+	
